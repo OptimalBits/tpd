@@ -17,7 +17,7 @@
    2. Open Downloads on home screen Install the downloaded app
    3. Configure TeamViewer by opening this link
       
-      <a href="https://get.teamviewer.com/tpdtv" target="_blank">Configure</a>
+      [Configure](https://get.teamviewer.com/tpdtv)
    4. Accept remote access by clicking *ASSIGN*
       
       ![image](https://user-images.githubusercontent.com/1486110/35231923-698163e2-ff9a-11e7-8997-f31025d37e0e.png)
