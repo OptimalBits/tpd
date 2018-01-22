@@ -11,10 +11,12 @@
 3. Configure Wifi under **Settings -> Wifi**
 4. Download and install Teamviewer Host
    1. Download Teamviewer Host from
+
       [TeamViewer](https://download.teamviewer.com/download/TeamViewerHost.apk)
    2. Open Downloads on home screen Install the downloaded app
-   3. Open the link
-      https://get.teamviewer.com/tpdtv
+   3. Configure TeamViewer by openingn this link
+      
+      [Configure](https://get.teamviewer.com/tpdtv)
    4. Accept remote access by clicking *ASSIGN*
 ![image](https://user-images.githubusercontent.com/1486110/35231923-698163e2-ff9a-11e7-8997-f31025d37e0e.png)
    5. Click *INSTALL* when asked whether to install add Add-On
@@ -23,7 +25,9 @@
       ![image](https://user-images.githubusercontent.com/1486110/35232013-a2aec7f4-ff9a-11e7-9e90-9971278709db.png)
 5. Install Castmill Player
    1. Download Castmill Player and Castmill Watchdog
+      
       [Castmill Player](bin/CastmillPlayer_o-3002000.apk)
+      
       [Castmill Watchdog](bin/CastmillWatchdog-1000002.apk)
 ![image](https://user-images.githubusercontent.com/1486110/35232046-b61560fa-ff9a-11e7-82aa-720cb2670ccf.png)
    2. Install both apk files
