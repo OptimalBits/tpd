@@ -29,7 +29,8 @@
       [Castmill Player](bin/CastmillPlayer_o-3002000.apk)
       
       [Castmill Watchdog](bin/CastmillWatchdog-1000002.apk)
-![image](https://user-images.githubusercontent.com/1486110/35232046-b61560fa-ff9a-11e7-82aa-720cb2670ccf.png)
+      
+      ![image](https://user-images.githubusercontent.com/1486110/35232046-b61560fa-ff9a-11e7-82aa-720cb2670ccf.png)
    2. Install both apk files
    3. Launch Castmill Player and wait for the registration view to appear
 ![image](https://user-images.githubusercontent.com/1486110/35232072-ca8acdfe-ff9a-11e7-8933-a8d73275c7fd.png)
