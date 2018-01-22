@@ -45,7 +45,7 @@
       
       ![image](https://user-images.githubusercontent.com/1486110/35232094-dd992e72-ff9a-11e7-91ee-efb325414a0a.png)
    2. Go back to home screen and open the app Host
-      Check that the app is ready to connect as in the screenshot below
+      Check that the app is connected to Castmill Admin as in the screenshot below
       
       ![image](https://user-images.githubusercontent.com/1486110/35232109-ec97488c-ff9a-11e7-885c-8139589ea095.png)
    3. Go back to home screen and open the app Castmill Player
