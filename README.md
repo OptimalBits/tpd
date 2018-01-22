@@ -1,6 +1,7 @@
 # Installing Castmill Player
 
 1. Perform a factory reset (only required for VitrineMedia screens)
+   
    The screen comes preinstalled and preconfigured with apps from VitrineMedia
    that will disturb CastmillPlayer. To avoid this a factory reset should be performed 
    1. Go to **Settings -> Backup & reset** and choose *Factory data reset*
