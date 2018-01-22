@@ -32,7 +32,7 @@
       
       [Castmill Player](https://www.dropbox.com/s/pynwx1b2xmd81gz/CastmillPlayer_o-3002000.apk?dl=1)
       
-      [Castmill Watchdog](https://www.dropbox.com/s/hrby2ivjr1w3pub/CastmillWatchdog-1000002.apk?dl=1)
+      [Castmill Watchdog](https://drive.google.com/uc?export=download&id=1wiiObeVcfCwvaUzrAvdwCmUb7sK4ZLL-)
    2. Install both apk files
       
       ![image](https://user-images.githubusercontent.com/1486110/35232046-b61560fa-ff9a-11e7-82aa-720cb2670ccf.png)    
