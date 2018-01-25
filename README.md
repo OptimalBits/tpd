@@ -30,7 +30,7 @@
 5. Install Castmill Player
    1. Download Castmill Player and Castmill Watchdog
       
-      [Castmill Player](https://drive.google.com/uc?export=download&id=1RIA2-Sqs9kEoFrr3JqzeF75m72PO7_6d)
+      [Castmill Player](https://drive.google.com/uc?export=download&id=1oUp6l6_QM74h1abBP9oYdpOfXN6J_gFl)
       
       [Castmill Watchdog](https://drive.google.com/uc?export=download&id=1p_ZB2r6khCD_fD3O_GRqiW-QFGst1TIJ)
    2. Install both apk files
