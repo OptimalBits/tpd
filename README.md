@@ -27,6 +27,8 @@
    6. Wait for download to complete and then click *INSTALL* again when download has been completed
       
       ![image](https://user-images.githubusercontent.com/1486110/35232013-a2aec7f4-ff9a-11e7-9e90-9971278709db.png)
+   7. Once installed, navigate to the Accessibility menu of the Android device and enable the Universal Add-On Accessibility Service.
+      ![Allow accessibility service](image-1.png)
 5. Install Castmill Player
    1. Download Castmill Player and Castmill Watchdog
       
