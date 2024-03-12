@@ -14,20 +14,21 @@
    1. Download Teamviewer Host from
 
       [TeamViewer](https://download.teamviewer.com/download/TeamViewerHost.apk)
-   2. Open Downloads on home screen Install the downloaded app
-   3. Configure TeamViewer by opening this link
+      [Alternative download](https://update.castmill.io/tv/TeamViewerHost.apk)
+   3. Open Downloads on home screen Install the downloaded app
+   4. Configure TeamViewer by opening this link
       
       [Configure](https://get.teamviewer.com/tpdtv)
-   4. Accept remote access by clicking *ASSIGN*
+   5. Accept remote access by clicking *ASSIGN*
       
       ![image](https://user-images.githubusercontent.com/1486110/35231923-698163e2-ff9a-11e7-8997-f31025d37e0e.png)
-   5. Click *INSTALL* when asked whether to install add Add-On
+   6. Click *INSTALL* when asked whether to install add Add-On
       
       ![image](https://user-images.githubusercontent.com/1486110/35231951-7c7f6a2a-ff9a-11e7-898a-5955033c9610.png)
-   6. Wait for download to complete and then click *INSTALL* again when download has been completed
+   7. Wait for download to complete and then click *INSTALL* again when download has been completed
       
       ![image](https://user-images.githubusercontent.com/1486110/35232013-a2aec7f4-ff9a-11e7-9e90-9971278709db.png)
-   7. Once installed, navigate to the Accessibility menu of the Android device and enable the Universal Add-On Accessibility Service.
+   8. Once installed, navigate to the Accessibility menu of the Android device and enable the Universal Add-On Accessibility Service.
       ![Allow accessibility service](image-1.png)
 5. Install Castmill Player
    1. Download Castmill Player and Castmill Watchdog
