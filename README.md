@@ -31,19 +31,20 @@
    8. Once installed, navigate to the Accessibility menu of the Android device and enable the Universal Add-On Accessibility Service.
       ![Allow accessibility service](image-1.png)
 5. Install Castmill Player
-   1. Download Castmill Player and Castmill Watchdog
+   1. Download Castmill Player and Castmill Watchdog.
       
-      [Castmill Player](https://update.castmill.io/android/CastmillPlayer_o-3002010.apk)
-      
-      [Castmill Watchdog](https://update.castmill.io/android/CastmillWatchdog-1000003.apk)
-   2. Install both apk files
+      Android5 | Android11
+      ---|---
+      [old Castmill Player](https://update.castmill.io/android/CastmillPlayer_o-3002010.apk)|[new Castmill Player](https://update.castmill.io/android/app.apk)      
+      [old Castmill Watchdog](https://update.castmill.io/android/CastmillWatchdog-1000003.apk)|[new Castmill Watchdog](https://update.castmill.io/android/watchdog.apk)
+   1. Install both apk files
       
       ![image](https://user-images.githubusercontent.com/1486110/35232046-b61560fa-ff9a-11e7-82aa-720cb2670ccf.png)    
-   3. Launch Castmill Player and wait for the registration view to appear
+   2. Launch Castmill Player and wait for the registration view to appear
    
       ![image](https://user-images.githubusercontent.com/1486110/35232072-ca8acdfe-ff9a-11e7-8933-a8d73275c7fd.png)
-   4. Register the player in https://tyloprint.castmill.io using the pin displayed on the screen
-6. Verify the installation
+   3. Register the player in https://tyloprint.castmill.io using the pin displayed on the screen
+7. Verify the installation
    1. Check that all the following apps appear under **Settings -> Apps**
       Castmill Player, Castmill Watchdog, Host, QuickSupport Add-On
       
